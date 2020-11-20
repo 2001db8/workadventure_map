@@ -33,7 +33,7 @@ Click on the link. You should be redirected directly to WorkAdventure, on your m
 
 ## Customizing your map
 
-Your map is now up and online. You need to customize it. 
+Your map is now up and online. You need to customize it.
 
 ### Cloning the map
 
