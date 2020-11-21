@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"rickroll.mp4"
+                 "value":".\/rickroll.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
