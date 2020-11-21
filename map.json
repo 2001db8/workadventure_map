@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"rickroll.mp4"
+                 "value":"https:\/\/blog.roesen.org\/workadventure_map\/rickroll.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
