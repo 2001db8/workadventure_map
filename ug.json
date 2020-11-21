@@ -70,7 +70,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"map.json#Treppe"
                 }],
@@ -108,7 +108,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":"map.json#Treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
