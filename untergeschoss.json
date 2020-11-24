@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#stairs"
+                 "value":"https:\/\/play.meet.n2n.io\/_\/global\/blog.roesen.org\/workadventure_map\/map.json#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,

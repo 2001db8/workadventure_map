@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"untergeschoss.json#stairs"
+                 "value":"https:\/\/play.meet.n2n.io\/_\/global\/blog.roesen.org\/workadventure_map\/untergeschoss.json#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1156,6 +1156,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":83,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
