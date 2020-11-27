@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.meet.n2n.io\/_\/global\/blog.roesen.org\/workadventure_map\/map.json#eingang"
+                 "value":"map.json#eingang"
                 }],
          "type":"tilelayer",
          "visible":true,
