@@ -251,7 +251,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.meet.n2n.io\/_\/global\/blog.roesen.org\/workadventure_map\/untergeschoss.json#eingang"
                 }],
