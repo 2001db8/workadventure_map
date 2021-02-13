@@ -1075,19 +1075,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":2097,
-         "image":"diverses_mit_treppe.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"treppe",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
