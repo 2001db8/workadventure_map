@@ -215,9 +215,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/blog.roesen.org\/workadventure_map\/rickroll.mp4"
+                 "value":"rickroll.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
