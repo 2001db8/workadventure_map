@@ -235,7 +235,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"datacenter1.mp3"
+                 "value":"datacenter.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
